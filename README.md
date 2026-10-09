@@ -1,8 +1,8 @@
-# SHCADA Centro — Public Brand Logo
+# SHCADA Centro — Public Brand Logos
 
-Public static image hosting for the approved SHCADA Centro white logo used by Microsoft 365 custom themes.
+Approved SHCADA Centro artwork for Microsoft 365 organization themes. This repository contains public brand images only; no app source, credentials, or staff records.
 
-The repository contains only approved public brand artwork. No internal app source, tenant credentials, or employee records.
+- `shcada-centro-color-retina.png` — color logo for the **Default Logo** slot on light backgrounds (414 × 144 transparent PNG).
+- `shcada-centro-white-retina.png` — white logo for the **Alternate Logo** slot on dark backgrounds (414 × 144 transparent PNG).
 
-Logo: `shcada-centro-white-retina.png` — 414 × 144 px transparent PNG, optimized for high-density displays.
-Click destination (configured separately in Microsoft 365): https://sacada.sharepoint.com/
+Microsoft 365 on-click link: https://sacada.sharepoint.com/
